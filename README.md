@@ -1,1 +1,84 @@
-# -Beautiful-place-by-junaid.com
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WORLD MOST BEAUTIFUL PLACES</title>
+</head>
+<body>
+    <center><h1 style="background-color:  gray;">WORLD MOST BEAUTIFUL PALCES</h1></center>
+    <CENter><h1> <li>1</li> </h1></CENter>
+<center><img src="https://pohcdn.com/sites/default/files/styles/node__blog_post__bp_banner/public/2021-01/Kirkjufell-volcano.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Iguazu Falls, Argentina and Brazil</h1></center>
+<h2>This vast water system is one of the most beautiful places in the world, capable of competing in spectacle even with the famous Niagara. It consists of 275 waterfalls located in the national parks of Argentina and Brazil. Both are called Iguazu and are included in the UNESCO World Heritage List. The most famous of the waterfalls is named Devil's Throat (Garganta del Diablo). It is 82 meters high. You can admire the spectacular view of the falling water from special observation decks or while walking on hiking trails — many of them pass at the foot of the waterfalls.</h2>
+<hr>
+<center><h1> <li>2</li> </h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Iguassu-Falls.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Geirangerfjord, Norway</h1></center>
+<h2>The fjord near the Norwegian village of Geiranger is one of the most beautiful places these harsh northern lands are known for. Its observation decks offer spectacular views of glaciers, dizzyingly high cliffs, rocky ledges with abandoned farms, and the powerful, rumbling Storseterfossen waterfall. It is better to take a boat tour to see the other two, the world-famous Seven Sisters and The Suitor, as they look much more spectacular from the water. Geirangerfjord is one of the five most visited natural attractions in Norway.</h2>
+<hr>
+<center><h1><li>3</li> </h1></center>
+
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Geirangerfjord.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">The ancient city of Petra, Jordan</h1></center>
+<h2>Carved in the rocky slopes, Petra was once the capital of Edom and later of the Nabataean Kingdom. This amazing city is lost in the rocks of Jordan, in the narrow Siq Canyon, more than 900 meters above sea level. Petra represents one of the most well-preserved and impressive examples of ancient Nabataean culture and engineering. It is impossible to believe that this miracle was created by people more than two thousand years ago. And with the first rays of the sun and at sunset, Petra glistens with scarlet and soft pink hues, for which it was nicknamed the Pink City.</h2>
+<hr>
+<center><h1> <li>4</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Al-Khazneh.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">The Great Barrier Reef, Australia</h1></center>
+<h2>One of the best vacation ideas is to visit the world's largest coral reef in the Pacific Ocean, off the northeastern coast of Australia. It's always warm so you can admire the stunning underwater world at any time of year. In spring and summer, large sea turtles come to the coast, and from November to May, the poisonous jellyfish spawn, when you can dive but only in a wetsuit. This underwater marvel comprises over 2,900 individual reefs and 900 islands, hosting an incredibly diverse array of marine life including 1,500 fish species, 400 types of hard coral, and numerous marine mammals and turtles.</h2>
+<hr>
+<center><h1> <li>5</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/The-Great-Barrier-Reef.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Moraine Lake, Canada</h1></center>
+<h2>Glacial Moraine Lake is considered the crown jewel of Canada's Banff National Park. The lake's color changes through the year, from a deep blue in summer to a more turquoise hue in early fall. From afar, it looks like a giant sapphire, shimmering in the sunlight, rather than a water body. The lake's temperature does not allow swimming, but you can rent a boat or go fishing and enjoy the clean mountain air.</h2>
+<hr>
+<center><h1><li>6</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Moraine-Lake.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Rice terraces in Mu Cang Chai, Vietnam</h1></center>
+<h2>Despite its remoteness from traditional routes, this place has long been beloved by tourists traveling in Vietnam. It often makes the list of the prettiest places in the world, and it doesn't surprise us. Mù Cang Chải is gently winding terraces carved into the mountain slopes. Local farmers plant rice on them, which requires a lot of moisture. They are flooded with water from February to April, creating a mirror-like effect and sparkling unimaginably in the sunlight. From May to mid-September, the slopes are painted a lush emerald color thanks to the rice sprouts that have risen. This is the best time to come here to admire the extraordinary scenery. Afterward, the slopes turn golden brown, which is also beautiful in its own way but not as impressive.</h2>
+<hr>
+
+<center><h1><li>7</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Mu-Cang-Chai-2.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Machu Picchu, Peru</h1></center>
+<h2></a> Peru has many interesting travel destinations, but the mysterious city of the vanished Inca empire, Machu Picchu, is definitely at the top of the tourist list. It was built on a high plateau in the XV century, and only from stone blocks, without cementing mortar. After about a century, all its inhabitants mysteriously disappeared, leaving their homes. The ancient Inca citadel holds many more secrets, which attract tourists from all over the world. The mild climate of the region allows for year-round tours even during the rainy season. But the territory of Machu Picchu allows no more than 400 people a day, so it is</h2>
+<hr>
+<center><h1><li>8</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Machu-Picchu.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Antelope Canyon, USA</h1></center>
+<h2>The amazing Antelope Canyon got its name because of the orange-red walls, very similar to this animal's skin. There are many beautiful places in the world, but this one can also be called one of the most extraordinary. Daylight that falls through the narrow cracks makes the rocks shimmer and change their hue. It's a photographer's paradise, but even with a smartphone, you can take stunning pictures. It is located in the American state of Arizona, on the territory of the Navajo Indians. They work here as guides. You cannot visit the Upper and Lower Canyons on your own because of the serious threat of flooding in a downpour.</h2>
+<hr>
+<center><h1><li>9</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Antelope-Canyon.jpg" alt=""></center>
+<center><h2 style="background-color:skyblue ;">Bora-Bora, French Polynesia</h2></center>
+<h2>This elite resort is considered one of the most beautiful places in the world. The small island of Bora Bora is part of one of the archipelagos in French Polynesia. The nature of the island is stunning, but even it pales in front of the variety of colors of the underwater world. Hundreds of bright tropical fish scurry around the thickets of colorful anemones. You can even feed the large predatory inhabitants of the lagoon, sharks, and barracudas under an instructor's supervision. The most popular diving spot inhabited by a huge number of these fish, including giant manta rays, is considered the stingray road.</h2>
+
+<hr>
+<center><h1><li>10</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Bora-Bora.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Taj Mahal, India</h1></center>
+<h2>The famous Crown of Palaces was built in the XVII century in the Indian city of Agra in memory of the wife of Padishah Shah Jahan, one of Tamerlane's descendants. Indian and European architects were given the task of creating the most beautiful in the world mausoleum, which had no equal. And they coped with this task. A beautiful park surrounds the magnificent building of white marble, and, once inside, visitors can admire the luxurious decorations and skillful finishing of the premises. The Taj Mahal is a symbol of eternal love and is also considered one of the New Seven Wonders of the World. It is not only the finest example of Mughal architecture but also a jewel of Muslim art in India.</h2>
+<hr>
+<center><h1><li>11</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Taj-Mahal.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Vaadhoo Island, Maldives</h1></center>
+<h2>Sea of Stars, as this place is often called, is part of the Raa Atoll of the Maldives archipelago. It is not nature and beaches that make the resort famous, but the presence of bioluminescent phytoplankton. At night, myriads of tiny organisms shine in the water with delicate neon lights, creating the illusion of a shimmering starry sky. This phenomenon has earned Vaadhoo the title of the most romantic resort in the world. The glow happens only in October and November. The rest of the time, the island is no different from its neighbors. It offers the same beaches with white sand, turquoise, crystal-clear water, and coral reefs near the shore, creating a paradise for snorkeling and diving.</h2>
+
+<hr>
+<center><h1><li>12</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Vaadhoo-Island.jpg" alt=""></center>
+
+<center><h1 style="background-color:skyblue ;">Ice-Caves in Vatnajokull Glacier, Iceland</h1></center>
+<h2>The giant Vatnajökull Glacier is located in Iceland and has the status of the largest glacier in Europe, ranking third in the world after the glaciers of Greenland and Antarctica. In its southern part, there are amazing ice caves of extraordinary beauty. They were formed over many thousands of years under the influence of underground geothermal sources and meltwater flows. As a result of melting and freezing, the cave walls took amazing shapes and shimmered in thousands of colors, from bright blue, aquamarine, and indigo to orange-red when the sun's rays penetrated through the ice. You can visit the Vatnajökull glacier caves on a guided tour to see this beauty with your own eyes, one of the most beautiful and interesting places in the world. The caves are typically only accessible from November to March, with each winter bringing new and unique formations.</h2>
+<center><h1><li>13</li></h1></center>
+<center><img src="https://pohcdn.com/sites/default/files/styles/paragraph__text_with_image___twi_image/public/2021-01/Vatnajokull.jpg" alt=""></center>
+<center><h1 style="background-color:skyblue ;">Yosemite Valley, USA</h1></center>
+<h2>This picturesque valley is located in the central part of Yosemite National Park, the oldest nature reserve in the United States. It is a breathtakingly beautiful place, surrounded by sheer cliffs and overgrown with evergreen trees, including giant sequoias. The main tourist destination in the valley is Yosemite Falls. The stream's total height is 740 meters, making it one of the highest in the world. Two rock massifs opposite each other, El Capitan (2307 m) and Half Dome (2693 m) are very popular among climbers. Their peaks offer a superb panorama of the valley. The best way to experience Yosemite's amazing nature is to hike one of its numerous trails.</h2>
+
+<strong><u> By Muhammad junaid Qayyum</u></strong>
+
+<center>Thanks</center>
+</body>
+</html>
